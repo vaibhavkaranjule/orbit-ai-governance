@@ -48,7 +48,7 @@ ORBIT (Operational Risk & Business Intelligence Tracker) is an AI-powered govern
 - Resolved the backlog in **6 weeks without tooling** - preventing an estimated **€40–60K in impact**\*
 - No system existed to surface this early or detect the gap proactively
 
-ORBIT is built to make that scenario impossible — for Capgemini, and for any delivery programme.
+ORBIT is built to make that scenario impossible - for Capgemini, and for any delivery programme.
 
 > *\*Figures are illustrative, based on representative programme characteristics.*
 

@@ -106,12 +106,12 @@ ORBIT is built to make that scenario impossible - for Capgemini, and for any del
 
 ## Team
 
-**Team ORBIT** — Capgemini × Microsoft Agentic Industry Hackathon 2026 · Track: BRING YOUR CLIENT
+**Team ORBIT** - Capgemini × Microsoft Agentic Industry Hackathon 2026 · Track: BRING YOUR CLIENT
 
-- **Vaibhav Karanjule** - Delivery Leader & AI Product Development, Capgemini Engineering
+- **Vaibhav Karanjule** - Delivery Leader & AI Product Development, Product Manager Product Owner, Capgemini Engineering
   [linkedin.com/in/vaikaranjule](https://www.linkedin.com/in/vaikaranjule)
 
-- **Qi Lutter-Yin** — Capgemini Engineering
+- **Qi Lutter-Yin** - Lead Applications Consultant, Capgemini Engineering
 
 ---
 

@@ -28,7 +28,7 @@ ORBIT (Operational Risk & Business Intelligence Tracker) is an AI-powered govern
 |---|---|
 | **Artefact Ingestion** | Auto-ingest emails, Teams messages, documents, and tickets via Microsoft Graph API |
 | **Commitment Extraction** | GPT-4o identifies owners, due dates, dependencies, and risk signals in natural language |
-| **Governance Dashboard** | Real-time health score across all delivery scopes — one view, zero manual effort |
+| **Governance Dashboard** | Real-time health score across all delivery scopes - one view, zero manual effort |
 | **Proactive Alerts** | Azure Event Grid triggers escalation before deadlines or SLA thresholds are missed |
 | **Natural Language Query** | Copilot Studio bot answers "What is overdue this week?" directly in Teams |
 

@@ -40,7 +40,7 @@ ORBIT (Operational Risk & Business Intelligence Tracker) is an AI-powered govern
 |---|---|
 | **Inspired by** | Real challenges in multi-scope enterprise delivery programmes |
 | **Primary deployment target** | **Capgemini** delivery organisation |
-| **Cross-sector applicable** | Any organisation managing complex multi-scope delivery — professional services, banking, energy, public sector, manufacturing |
+| **Cross-sector applicable** | Any organisation managing complex multi-scope delivery - professional services, banking, energy, public sector, manufacturing |
 
 **The illustrative scenario:**
 - **>€150K/month** in delivery value at risk across 5 concurrent scopes\*
@@ -76,7 +76,7 @@ ORBIT is built to make that scenario impossible — for Capgemini, and for any d
 
 **Two-agent pipeline: (has multiple agents orchestrating simlar schematics)**
 - **Agent 1 : Ingestion & Extraction:** Ingests artefacts, extracts commitments, classifies risk, validates and deduplicates → *Commitments Logged*
-- **Agent 2 : Governance & Alert:** Monitors programme health, generates reports, triggers escalations — Programme Manager holds the human decision gate → *Governance Actioned*
+- **Agent 2 : Governance & Alert:** Monitors programme health, generates reports, triggers escalations - Programme Manager holds the human decision gate → *Governance Actioned*
 
 **Technology Stack:** Azure AI Foundry · GPT-4o · Microsoft Graph API · Azure Document Intelligence · Azure Cosmos DB · Azure Event Grid · Azure AI Search · Microsoft Fabric · Copilot Studio · Power Automate · Power BI · GitHub
 

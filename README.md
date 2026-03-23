@@ -53,16 +53,7 @@ Power BI Dashboard   Copilot Studio Teams Bot
 - **Copilot Studio**- conversational Teams bot for status queries
 - **GitHub** - version control and documentation
 
----
 
-## Repository Contents
-
-| File | Description |
-|------|-------------|
-| `ORBIT_Architecture_Wireframe.html` | Interactive architecture diagram |
-| `ORBIT_Hackathon_Handbook.docx` | Step-by-step build guide |
-| `ORBIT_UseCase_Document.docx` | Use case, user stories, and prototype specification |
-| `ORBIT_Hackathon_Deck.pptx` | Pitch deck ppt submitted to Capgemini IDG Hackathon 2026 |
 
 ---
 
